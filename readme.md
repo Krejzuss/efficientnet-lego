@@ -2,7 +2,10 @@
 
 System do rozpoznawania klocków LEGO ze zdjęć.
 Własny zbiór danych (ponad 6 tys. zdjęć, 20 klas) i proces uczenia od zera. Model to EfficientNet-B2 w PyTorch. Dzięki transfer learningowi i mocnej augmentacji danych osiąga 91.4% skuteczności na zbiorze testowym (zdjęcia w normalnych warunkach z tłem).
-
+## Specyfikacja sprzętu
+`RTX 4070 ti`
+`i5 13600k`
+`32GB RAM`
 ## Funkcje aplikacji
 
 - **GUI:** Prosta aplikacja okienkowa w Tkinter i Matplotlib. Wybranie zdjęcia, otrzymanie Design ID klocka i pewność w %.
