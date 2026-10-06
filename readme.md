@@ -22,13 +22,15 @@ Własny zbiór danych (ponad 6 tys. zdjęć, 20 klas) i proces uczenia od zera. 
 
 Python, PyTorch, Torchvision, NumPy, Matplotlib, Tkinter, PIL.
 
+
 ## Macierz pomyłek
 
-![alt text](image.png)
+<img width="2922" height="2064" alt="Macierz Pomyłek" src="https://github.com/user-attachments/assets/50148aa3-8873-4477-b369-aa2bf0a88be4" />
 
 ## GUI
 
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-4.png)
-![alt text](image-3.png)
+<img width="467" height="244" alt="Obraz1" src="https://github.com/user-attachments/assets/209a7ad8-2905-4b28-8ad9-bbc221810161" />
+<img width="781" height="1024" alt="predict3" src="https://github.com/user-attachments/assets/76fe2d4a-99ca-4045-9492-6c6b32dfbb88" />
+<img width="590" height="746" alt="predict2" src="https://github.com/user-attachments/assets/92715c2f-ca48-4aca-bbc0-0a085478fd1d" />
+<img width="431" height="750" alt="predict1" src="https://github.com/user-attachments/assets/8316b27d-6852-4819-a43c-7e00f63e4640" />
+
